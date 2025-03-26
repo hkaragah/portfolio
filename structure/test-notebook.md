@@ -1,6 +1,6 @@
 ---
 title: Test Notebook
-permalink: /structure/test-notebook/
+permalink: /structure/test-notebook
 layout: default
 ---
 
