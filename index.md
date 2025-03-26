@@ -1,11 +1,15 @@
+---
+title: Home
+layout: home
+---
 # Structural Engineer
 
-### Education
-Civil (Structural) Engineering, Ph.D.
-Civil (Earthquake) Engineering, M.Sc.
-Civil Engineering, B.Sc.
+## Education
+* Civil (Structural) Engineering, Ph.D.
+* Civil (Earthquake) Engineering, M.Sc.
+* Civil Engineering, B.Sc.
 
-### Work Experience
+## Work Experience
 Structural Consultant
 - Project 1
 - Project 2
@@ -13,6 +17,6 @@ Structural Associate @ RA Structural Engineering
 Staff Engineer II @ WDP Consulting Engineers
 Research Assitant @ University of Houston
 
-### Projects
-[Structural Engineering](https://hkaragah.github.io/portfolio/structure.md)
+## Projects
+- **[Structural Engineering](/structural-engineering/)**
 
