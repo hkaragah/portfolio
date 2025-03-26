@@ -12,3 +12,5 @@ navigation:
     url: /
   - title: Structural Engineering
     url: /structure/
+  - title: test-notebook
+    url: /structure/test-notebook/
