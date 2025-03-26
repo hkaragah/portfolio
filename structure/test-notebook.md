@@ -1,7 +1,7 @@
 ---
 title: Test Notebook
 permalink: /structure/test-notebook
-layout: default
+layout: nb_layout
 ---
 
 # Test Notebook
