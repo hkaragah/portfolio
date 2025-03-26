@@ -14,5 +14,5 @@ Staff Engineer II @ WDP Consulting Engineers
 Research Assitant @ University of Houston
 
 ### Projects
-[Structural Engineering](https://hkaragah.github.io/portfolio/structure/README.md)
+[Structural Engineering](https://hkaragah.github.io/portfolio/structure.md)
 
