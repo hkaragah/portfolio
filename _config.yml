@@ -2,7 +2,7 @@ title: Hossein Karagah
 logo: /assets/img/headshot.png
 # description: text below image
 # show_downloads: true
-theme: jekyll-theme-minimal # for other options go to: https://pages.github.com/themes/
+theme: jekyll-theme-midnight # for other options go to: https://pages.github.com/themes/
 include:
   - structure
 baseurl: "" # no base url
