@@ -1,7 +1,7 @@
 ---
 title: Structural Engineering
 permalink: /structure/
-layout: page
+layout: default
 ---
 
 # Structural Engineering
