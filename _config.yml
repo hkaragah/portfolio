@@ -5,8 +5,8 @@ logo: /assets/img/headshot.png
 theme: jekyll-theme-minimal # for other options go to: https://pages.github.com/themes/
 include:
   - structure
-baseurl: "/portfolio"
-url: "https://hosseinkaragah.github.io"
+baseurl: "" # no base url
+url: "https://hkaragah.github.io"
 navigation:
   - title: Home
     url: /

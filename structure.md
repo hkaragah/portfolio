@@ -1,13 +1,13 @@
 ---
 title: Structural Engineering
 permalink: /structure/
-layout: page
+layout: default
 ---
 
 # Structural Engineering
 
 This page contains resources and notebooks related to structural engineering. 
 
-- [Test Notebook](https://hkaragah.github.io/portfolio/structure/test.ipynb)
+- [Test Notebook](/structure/test.ipynb)
 
-[Home](https://hkaragah.github.io/portfolio/index.md)
+[Home](/)

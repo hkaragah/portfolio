@@ -1,6 +1,6 @@
 ---
 title: Home
-# layout: home
+layout: default # 'default' or 'page'
 ---
 # Structural Engineer
 
@@ -10,12 +10,12 @@ title: Home
 * Civil Engineering, B.Sc.
 
 ## Work Experience
-Structural Consultant
-- Project 1
-- Project 2
-Structural Associate @ RA Structural Engineering
-Staff Engineer II @ WDP Consulting Engineers
-Research Assitant @ University of Houston
+* Structural Consultant
+    - Project 1
+    - Project 2
+* Structural Associate @ RA Structural Engineering
+* Staff Engineer II @ WDP Consulting Engineers
+* Research Assitant @ University of Houston $\tau$
 
 ## Projects
 - **[Structural Engineering](/structure/)**
