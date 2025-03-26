@@ -18,5 +18,5 @@ Staff Engineer II @ WDP Consulting Engineers
 Research Assitant @ University of Houston
 
 ## Projects
-- **[Structural Engineering](/structural-engineering/)**
+- **[Structural Engineering](/structure/)**
 

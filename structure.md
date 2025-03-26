@@ -1,6 +1,6 @@
 ---
 title: Structural Engineering
-permalink: /structural-engineering/
+permalink: /structure/
 layout: page
 ---
 
